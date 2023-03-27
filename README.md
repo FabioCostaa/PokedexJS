@@ -6,7 +6,6 @@ Feito com JavaScript, Css e HTML
 
 
 Site:  https://fabiocostaa.github.io/PokedexJS/ <br>
-Tutorial: https://www.youtube.com/watch?v=SjtdH3dWLa8 <br>
 API: https://pokeapi.co/
 </div>
 
